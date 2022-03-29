@@ -1,0 +1,15 @@
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\bin\Debug\net6.0\TreinoFim.exe
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\bin\Debug\net6.0\TreinoFim.deps.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\bin\Debug\net6.0\TreinoFim.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\bin\Debug\net6.0\TreinoFim.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\bin\Debug\net6.0\ref\TreinoFim.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\bin\Debug\net6.0\TreinoFim.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\TreinoFim.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\TreinoFim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\TreinoFim.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\TreinoFim.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\TreinoFim.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\TreinoFim.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\ref\TreinoFim.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\TreinoFim.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\TreinoFim\obj\Debug\net6.0\TreinoFim.genruntimeconfig.cache
